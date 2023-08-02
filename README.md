@@ -5,7 +5,7 @@ Description: Write a multi-process code for reading and merging videos and compa
 
 
 
-Single Process Time: 120s +/- 5s
-Multi Process Time: 57s +/- 3s
+- Single Process Time: 120s +/- 5s
+- Multi Process Time: 57s +/- 3s
 
 
